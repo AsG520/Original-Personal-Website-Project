@@ -64,7 +64,7 @@ body {
     }
 }
 
-#youtube-link, #github-link, #linktree-link {
+#youtube-link, #github-link, #linktree-link, #discord-link {
     text-decoration-color: transparent;
     padding: 10px;
     color: var(--main-color);
@@ -88,7 +88,7 @@ body {
     }
 }
 
-#youtube-link:hover, #github-link:hover, #linktree-link:hover {
+#youtube-link:hover, #github-link:hover, #linktree-link:hover, #discord-link:hover {
     text-decoration: underline;
     text-decoration-color: var(--main-color);
 }
