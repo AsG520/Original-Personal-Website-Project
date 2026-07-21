@@ -1,6 +1,11 @@
 # Original Personal Website Project
 
 Features in Website
+- Includes my latest video posted on YouTube.
+- Organized timeline shown for completed projects in the past and upcoming projects for the future.
+- Social accounts are referenced in the footer (e.g. Discord Server, YouTube, etc).
+- Showcases the programming languages, which I know from large icons displayed under description.
+- Title and description are copied from my YouTube channel details.
 
 How it Works
 
