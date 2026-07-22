@@ -8,6 +8,10 @@ Features in Website
 - Title and description are copied from my YouTube channel details.
 
 How it Works
+- Underlining effect for social media platforms.
+- Black background attached to bring attention within elements inside of website.
+- Clicking on the video will play without going to YouTube.
+- View more link embedded, which will direct user to my YouTube channel.
 
 Requirements
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
