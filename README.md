@@ -1,7 +1,6 @@
 # Original Personal Website Project
 
 ## Visual of Website
-<img width="1220" height="841" alt="Image" src="https://github.com/user-attachments/assets/7802dd85-650d-46bf-b4bf-4e1c00e822f1" />
 
 ## Features in Website
 - Includes my latest video posted on YouTube.
