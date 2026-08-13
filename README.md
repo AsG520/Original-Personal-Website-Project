@@ -1,36 +1,36 @@
-# Original Personal Website Project
+# 🌐 Original Personal Website Project
 
-## Table of Contents
+## 📘 Table of Contents
 - Visual of Website
 - Features in Website
 - How it Works
 - Requirements
 - How to Run
 
-## Visual of Website
+## 🎨 Visual of Website
 <img width="640" height="539" alt="Image" src="https://github.com/user-attachments/assets/0e8cd614-6256-4dff-9440-5c209eaae480" />
 
-## Features in Website
+## 🔥 Features in Website
 - Includes my latest video posted on YouTube.
 - Organized timeline shown for completed projects in the past and upcoming projects for the future.
 - Social accounts are referenced in the footer (e.g. Discord Server, YouTube, etc).
 - Showcases the programming languages, which I know from large icons displayed under description.
 - Title and description are copied from my YouTube channel details.
 
-## How it Works
+## 🛠️ How it Works
 - Underlining effect for social media platforms.
 - Black background attached to bring attention within elements inside of website.
 - Clicking on the video will play without going to YouTube.
 - View more link embedded, which will direct user to my YouTube channel.
 
-## Requirements
+## 🎯 Requirements
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 - HTML (HyperText Markup Language).
 - CSS (Cascading Style Sheets).
 - JS (JavaScript).
 - Live Reloading or Hot Reloading (e.g., Live Server, and etc).
 
-## How to Run
+## 💻 How to Run
 1) Copy the HTML code into a HTML file named "index.html".
 2) Copy the CSS code into a CSS file named "style.css".
 3) Copy the JS code into a JS file named "function.js".
