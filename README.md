@@ -1,14 +1,10 @@
 # 🌐 Original Personal Website Project
 
 ## 📘 Table of Contents
-- 🎨 Visual of Website
 - 🔥 Features in Website
 - 🛠️ How it Works
 - 🎯 Requirements
 - 💻 How to Run
-
-## 🎨 Visual of Website
-<img width="640" height="539" alt="Image" src="https://github.com/user-attachments/assets/0e8cd614-6256-4dff-9440-5c209eaae480" />
 
 ## 🔥 Features in Website
 - Includes my latest video posted on YouTube.
